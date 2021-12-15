@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World github2!" );
         System.out.println("hello git");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
